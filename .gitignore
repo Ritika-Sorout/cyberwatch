@@ -1,0 +1,8 @@
+node_modules/
+*.pyc
+__pycache__/
+.env
+*.log
+.DS_Store
+cyberwatch-env/
+dist/

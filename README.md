@@ -167,11 +167,17 @@ cyberwatch/
 
 ## 🖥️ Live Screenshots
 
-![CyberWatch SOC Dashboard](screenshots/kibana-dashboard.png)
-> Device behavioral profiles indexed in real-time
-> Suricata EVE JSON streaming via Filebeat
+### Kibana SOC Dashboard - 44,424 alerts from live traffic
+![SOC Dashboard](screenshots/kibana-dashboard.png)
 
-*(Screenshots from live deployment on MacBook Air M2, March 2026)*
+### Attack Type Distribution and Top Source IPs
+![Dashboard Panels](screenshots/kibana-dashboard-2.png)
+
+### Real-time Alert Timeline
+![Alert Timeline](screenshots/kibana-dashboard-3.png)
+
+### Suricata Live Capture and EVE JSON Stream
+![Suricata Terminal](screenshots/terminal-suricata.png)
 
 ---
 

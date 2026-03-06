@@ -167,7 +167,7 @@ cyberwatch/
 
 ## 🖥️ Live Screenshots
 
-> Kibana SOC Dashboard — 44,424 alerts from live traffic capture
+![CyberWatch SOC Dashboard](screenshots/kibana-dashboard.png)
 > Device behavioral profiles indexed in real-time
 > Suricata EVE JSON streaming via Filebeat
 

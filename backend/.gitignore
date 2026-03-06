@@ -1,0 +1,7 @@
+cyberwatch-env/
+__pycache__/
+*.pyc
+cyberwatch.log
+*.log
+.DS_Store
+cyberwatch-logstash.conf
